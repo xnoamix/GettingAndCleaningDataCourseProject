@@ -9,7 +9,7 @@ In the project we were asked to merge the training and datasets, filter only the
 
 ##The assignment is composed of 3 files:
 
-* 'mean_var.txt' - holds the final output 
+* 'mean_var.txt' - holds the final output (was uploaded directly to the assignment page). 
 * 'run_analysis.R' - The code that was used to clean and process the raw data. It can be used to recreate the mean_var.txt file from the data provided in 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 * 'CodeBook.md' - a code book that describes the variables, the data and the transformations that were done on the raw data.
